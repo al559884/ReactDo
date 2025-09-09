@@ -70,7 +70,6 @@ Here is a screenshot of the project:
 
 ![ToDo List Project](./src/assets/Screenshot%202025-09-04%20175150.png)
 
-> Place your screenshot inside `assets/images/screens/` and update the file name if needed.
 
 ---
 
